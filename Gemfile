@@ -5,6 +5,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "faraday"
+gem "faye"
 
 group :development, :test do
   gem "bundler"
